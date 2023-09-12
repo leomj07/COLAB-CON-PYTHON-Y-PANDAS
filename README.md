@@ -4,6 +4,7 @@ Desafíos de esta aula Promedio del área de todos los inmuebles en los barrios 
 ![image](https://github.com/leomj07/COLAB-CON-PYTHON-Y-PANDAS/assets/13156906/6d0c176c-f55e-4f62-920b-3e540f0610ef)
 
 
+![image](https://github.com/leomj07/COLAB-CON-PYTHON-Y-PANDAS/assets/13156906/048d53d2-bf36-4035-a3b0-ba3c57a18687)
 
 
 
