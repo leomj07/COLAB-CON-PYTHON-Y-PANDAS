@@ -1,5 +1,6 @@
 :raised_back_of_hand: :man_scientist: :technologist: :raised_back_of_hand:
-# COLAB-CON-PYTHON-Y-PANDAS
+# COLAB-CON-PYTHON-Y-PANDAS 
+# CLASE 1
 
 ## Desafíos de esta aula Promedio del área de todos los inmuebles en los barrios en el dataset. El top 10; Consultar otros datos estadísticos, conteo, mediana, valores mínimo y máximo.
 
@@ -15,6 +16,11 @@
 ![image](https://github.com/leomj07/COLAB-CON-PYTHON-Y-PANDAS/assets/13156906/bfbce798-f59c-44da-a604-d7aa06fc5e94)
 ## - Conteo
 ![image](https://github.com/leomj07/COLAB-CON-PYTHON-Y-PANDAS/assets/13156906/7f7e11a4-575f-4d0d-abc4-430b029c19f4)
+
+# CLASE 2
+### Estudiar mejor el histograma de valores, seleccionar 3 tipos de inmuebles (Refinar el gráfico: Títulos, aumentar el tamaño de labels, colores, conclusión de la información)
+![image](https://github.com/leomj07/COLAB-CON-PYTHON-Y-PANDAS/assets/13156906/f9953ee0-49f7-4e22-aaf1-3e775212779f)
+
 
 
 
