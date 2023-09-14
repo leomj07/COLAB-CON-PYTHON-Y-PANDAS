@@ -20,6 +20,9 @@
 # CLASE 2
 ### Estudiar mejor el histograma de valores, seleccionar 3 tipos de inmuebles (Refinar el gráfico: Títulos, aumentar el tamaño de labels, colores, conclusión de la información)
 ![image](https://github.com/leomj07/COLAB-CON-PYTHON-Y-PANDAS/assets/13156906/f9953ee0-49f7-4e22-aaf1-3e775212779f)
+### Colores, labels, 3 inmuebles
+![image](https://github.com/leomj07/COLAB-CON-PYTHON-Y-PANDAS/assets/13156906/a16b292c-f3ca-4197-9486-155de56481eb)
+
 
 
 
